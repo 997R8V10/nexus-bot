@@ -12,9 +12,3 @@ Feel free to rename/move categories and text channels as you wish - it will not 
 When the last user leaves the voice channel, messages in the linked text channel will be deleted (excluding pinned messages).  
 
 For existing commands, either check [wiki](https://github.com/andretkachenko/nexus-bot/wiki/Existing-commands) or use the bot's slash commands on your server.  
-
-## Thank you
-If you like the bot and would like to support me:  
-<a href="https://www.buymeacoffee.com/undrimnir" target="_blank">
-<img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
-</a>
